@@ -1,5 +1,4 @@
-
-<img src="https://www.icegif.com/wp-content/uploads/naruto-icegif-43.gif" style="width:100%;">
+[![MasterHead](https://ibb.co/Lt5jFd2)]
 
 <h3 align="center">A passionate Software developer from India</h3>
 
@@ -36,28 +35,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=memyselfharsh02&show_icons=true&locale=en" alt="memyselfharsh02" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=memyselfharsh02&" alt="memyselfharsh02" /></p>
-
-
-
-
-
-
-
-<!--<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Bungee+Spice&pause=1000&color=35CDF7&random=false&width=435&lines=Hi+There!..+%F0%9F%91%8B%F0%9F%A4%98;I'm+Harsh+Kumar ;" />
-</h1>-->
-      
-<!--
-**memyselfharsh02/memyselfharsh02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me abou ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
