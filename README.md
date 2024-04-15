@@ -1,5 +1,5 @@
 
-[![MasterHead](https://www.icegif.com/wp-content/uploads/naruto-icegif-43.gif)]
+<img src="https://www.icegif.com/wp-content/uploads/naruto-icegif-43.gif" style="width:100%;">
 
 <h3 align="center">A passionate Software developer from India</h3>
 
