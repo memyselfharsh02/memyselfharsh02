@@ -50,6 +50,13 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
+uses: Platane/snk@v1.1.0
+  with:
+       github_user_name: ${{ github.memyselfharsh02 }}
+   gif_out_path: dist/github-snake.gif
+   svg_out_path: dist/github-snake.svg
+
+    
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/memyselfharsh02/memyselfharsh02/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
