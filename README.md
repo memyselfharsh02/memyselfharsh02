@@ -1,5 +1,13 @@
- <img src="https://giffiles.alphacoders.com/979/9793.gif">
-
+<style>
+   .center-image {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+   }
+</style>
+<div class="center-image">
+ <img src="https://giffiles.alphacoders.com/979/9793.gif" >
+</div>
 
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=memyselfharsh02.memyselfharsh02" />
