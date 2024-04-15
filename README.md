@@ -1,3 +1,8 @@
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Honk&pause=1000&random=false&width=435&lines=Hi+There!..+%F0%9F%91%8B%F0%9F%A4%98;I'm+Harsh+kumar!" />
+</h1>
+
+
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/54b6c068097599.5b50bca476b9b.gif)
 
 <h3 align="center">A passionate Software developer from India</h3>
