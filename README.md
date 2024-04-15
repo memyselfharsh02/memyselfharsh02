@@ -1,13 +1,7 @@
-<style>
-   .center-image {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-   }
-</style>
-<div class="center-image">
+
+<center>
  <img src="https://giffiles.alphacoders.com/979/9793.gif" >
-</div>
+</center>
 
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=memyselfharsh02.memyselfharsh02" />
