@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/82/16/7a/82167a22025c50b6ed1219782cc90389.gif"  > <img src="https://www.icegif.com/wp-content/uploads/naruto-icegif-43.gif">
+<img src="https://i.pinimg.com/originals/82/16/7a/82167a22025c50b6ed1219782cc90389.gif" height="300" width="250" > <img src="https://www.icegif.com/wp-content/uploads/naruto-icegif-43.gif"  height="300" width="250">
 
 
 
