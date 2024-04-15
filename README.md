@@ -29,9 +29,9 @@
   </a>
   <a href="https://bento.me/memyselfharsh02" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
- <a href="https://twitter.com/memyselfharsh" target="_blank">
-     <img src="68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547769747465722d3030373738353f7374796c653d666f722d7468652d6261646765266c6f676f3d54776974746572266c6f676f436f6c6f723d7768697465&logoColor=white" target="_blank" />
-      
+</a>
+    <a href="https://twitter.com/memyselfharsh" target="_blank">
+    <img src="https://img.shields.io/badge/twitter-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
 </div>
 
