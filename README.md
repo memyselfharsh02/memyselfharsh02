@@ -3,7 +3,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Bungee+Spice&pause=1000&color=35CDF7&random=false&width=435&lines=Hi+There!..+%F0%9F%91%8B%F0%9F%A4%98;I'm+Harsh+Kumar ;" />
 
-    <h1 align="center">Hi 👋, I'm Harsh Kumar</h1>
+   
 <h3 align="center">A passionate Software developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=memyselfharsh02&label=Profile%20views&color=0e75b6&style=flat" alt="memyselfharsh02" /> </p>
