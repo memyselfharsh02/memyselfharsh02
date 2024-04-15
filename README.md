@@ -9,7 +9,7 @@
     <img src="(https://readme-typing-svg.herokuapp.com?font=Honk&size=45&pause=1000&center=true&vCenter=true&random=false&width=500&height=700&lines=Hi+There!..+%F0%9F%91%8B%F0%9F%A4%98;I'm+Harsh+kumar!" />
 </h1>
 
-
+<div>
 <h3 align="center">A passionate Software developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
