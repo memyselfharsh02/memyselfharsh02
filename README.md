@@ -40,8 +40,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,vscode,github,figma,webflow" />
-    <img src="https://skillicons.dev/icons?i=tailwind,git,nodejs,javascript,c,cpp,blender,ps" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,github,figma" />
+    <img src="https://skillicons.dev/icons?i=vscode,tailwind,git,nodejs,javascript,c,cpp,blender,ps,webflow" /><br>
 </div>
 
 <br/>
