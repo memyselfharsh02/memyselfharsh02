@@ -50,12 +50,20 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-uses: Platane/snk@v1.1.0
+    
+ uses: Platane/snk@v3
   with:
-       github_user_name: ${{ memyselfharsh02 }}
-   gif_out_path: dist/github-snake.gif
-   svg_out_path: dist/github-snake.svg
+    github_user_name: ${{ memyselfharsh02 }}
 
+   
+ outputs: |
+      dist/github-snake.svg
+      dist/github-snake-dark.svg?palette=github-dark
+      dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+
+env:
+      # a github token is required to fetch the contribution calendar from github API
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     
 
   <br/><br/><br/>
