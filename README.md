@@ -1,7 +1,7 @@
 
-<center>
- <img src="https://giffiles.alphacoders.com/979/9793.gif" >
-</center>
+<h1 align="center">
+ <img src="https://giffiles.alphacoders.com/139/13966.gif" >
+</h1>
 
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=memyselfharsh02.memyselfharsh02" />
